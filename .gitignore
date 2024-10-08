@@ -1,2 +1,6 @@
 lveriTabani.txt
 
+htmlFiles/*
+
+!htmlFiles/dosya1.html
+
